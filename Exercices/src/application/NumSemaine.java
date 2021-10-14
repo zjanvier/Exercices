@@ -1,5 +1,10 @@
 package application;
-
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant d'afficher le nom du jour de la semaine
+* partant d'un nombre donné (entre 1 et 7)
+*/
 import java.util.Scanner;
 
 public class NumSemaine {

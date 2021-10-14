@@ -1,5 +1,10 @@
 package application;
-
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant de determiner le nombre de fois où
+* un chiffre allant de 1 à 10 peut être compté sur les deux mains
+*/
 import java.util.Scanner;
 
 public class NPapa {

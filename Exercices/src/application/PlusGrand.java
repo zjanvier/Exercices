@@ -1,5 +1,10 @@
 package application;
-
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant d'afficher le nombre le plus grand 
+* de trois nombres donnés
+*/
 import java.util.Scanner;
 
 public class PlusGrand {

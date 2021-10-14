@@ -1,4 +1,9 @@
 package application;
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant d'illustrer l'uitilisation de switch
+*/
 
 import java.util.Scanner;
 

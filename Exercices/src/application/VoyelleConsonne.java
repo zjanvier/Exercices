@@ -1,4 +1,9 @@
 package application;
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant de déterminer si un caractère est une consonne ou une voyelle
+*/
 
 import java.util.Scanner;
 

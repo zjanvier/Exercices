@@ -1,5 +1,10 @@
 package application;
-
+/*
+* Author : Jzagabe
+* Date : Oct. 14, 2021
+* Description : Programme permettant de déterminer si une année
+* est bissextile ou non
+*/
 import java.util.Scanner;
 
 public class Bissextile {
