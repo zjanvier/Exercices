@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-public class Test2 {
+public class NumSemaine {
 
 	public static void main(String[] args) 
 	{

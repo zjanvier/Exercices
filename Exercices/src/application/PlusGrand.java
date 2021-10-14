@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-public class Test {
+public class PlusGrand {
 
 	public static void main(String[] args)
 	{
